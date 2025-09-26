@@ -9,13 +9,13 @@ Just a **Malayalee aspiring to be a Full-Stack Web Developer** and a good engine
 
 ### 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishag-s&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vis89-svg&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishag-s&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vis89-svg&layout=compact&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vishag-s&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=vis89-svg&theme=radical)  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishag-s&theme=radical)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vis89-svg&theme=radical)  
 
 ---
 
@@ -32,4 +32,4 @@ Just a **Malayalee aspiring to be a Full-Stack Web Developer** and a good engine
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishag-s-9499491b9/)  
 
 ---
-⭐️ From [vishag-s](https://github.com/vishag-s)
+⭐️ From [vis89-svg](https://github.com/vis89-svg)
