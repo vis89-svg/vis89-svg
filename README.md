@@ -15,8 +15,6 @@ Just a **Malayalee aspiring to be a Full-Stack Web Developer** and a good engine
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vis89-svg&theme=radical)  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vis89-svg&theme=radical)  
-
 ---
 
 ### 🛠️ Tech Stack  
