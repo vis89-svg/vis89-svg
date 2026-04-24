@@ -4,7 +4,7 @@
 
 Building production systems from Kerala, India.  
 💻 Backend-first. Shipping real features, real users, real stakes.  
-🤖 Currently integrating **local LLMs (Ollama)** + **ML models** into Django backends.
+🤖 🐍 Python engineer. Backend systems, ML pipelines, shipped products.
 
 ---
 
