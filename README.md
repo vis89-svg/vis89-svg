@@ -1,10 +1,21 @@
 # Hey 👋, I'm Vishag
 
-### Product Engineer @ LNO Technologies | Django · ML · Full-Stack
+### Product Engineer @ LNO Technologies | Python · Django · ML
 
-Building production systems from Kerala, India.  
-💻 Backend-first. Shipping real features, real users, real stakes.  
-🤖 🐍 Python engineer. Backend systems, ML pipelines, shipped products.
+Backend-focused engineer building scalable systems, real-time applications, and production-ready platforms.
+
+🚀 Built and deployed full-stack applications with real users  
+⚙️ Focused on backend architecture, APIs, and performance  
+🤖 Experience with ML pipelines and data-driven features  
+🌍 Based in Kerala, India  
+
+---
+
+### 🧠 What I Do
+
+• Design and build scalable backend systems using Django & REST APIs  
+• Develop ML-powered features and data processing pipelines  
+• Ship real-world applications with authentication, real-time features, and user workflows  
 
 ---
 
